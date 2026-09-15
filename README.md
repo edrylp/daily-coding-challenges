@@ -4,6 +4,7 @@ I'm trying to build a habit of coding every single day, so this is where I'm
 keeping track of it.
 
 The rule is simple: one [Codewars](https://www.codewars.com/) kata a day.
+
 I'll solve it in JavaScript first, then go back and solve the exact same one
 in Python.
 
@@ -19,7 +20,7 @@ daily-coding-challenges/
 ├── README.md
 └── challenges/
     └── 001/
-        ├── problem.md      # the kata — link, difficulty, what it's asking
+        ├── problem.md      # the kata (link, and what it's asking)
         ├── javascript.js   # solved first
         └── python.py       # same problem, solved again in Python
 ```
